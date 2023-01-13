@@ -1,5 +1,9 @@
 <p align="center">
+<<<<<<< HEAD
   <img src="assets/lazyprincessbot.jpg" alt="Black Panther Logo">
+=======
+  <img src="assets/lazyprincessbot.jpg" alt="wDeveloper Logo">
+>>>>>>> fa36a0cb06e6319ca1fc84adc89497f6fa031832
 </p>
 <h1 align="center">
   <b> Black_Panther BOT </b>
@@ -96,11 +100,11 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDevelopers)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/wDeveloperrSupport)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/wDeveloper)
 
 ## Credits 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDevelopers)
+* [![Black_Panther-Devs](https://img.shields.io/static/v1?label=Black_Panther&message=devs&color=critical)](https://telegram.dog/wDeveloperr)
 
 
 ## Thanks to 
