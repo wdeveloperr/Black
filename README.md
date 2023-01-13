@@ -2,7 +2,7 @@
   <img src="assets/lazyprincessbot.jpg" alt="wDeveloper Logo">
 </p>
 <h1 align="center">
-  <b> wDeveloper BOT </b>
+  <b> Black_Panther BOT </b>
 </h1>
 
 
