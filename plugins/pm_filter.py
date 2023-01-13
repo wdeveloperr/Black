@@ -286,7 +286,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 f"Some error occurred!!",
                 parse_mode="md"
             )
-        return await query.answer('❤️Thank You @LazyDeveloper ❤️')
+        return await query.answer('❤️Thank You @wDeveloper ❤️')
     elif query.data == "backcb":
         await query.answer()
 
@@ -297,7 +297,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.message.edit_text(
                 "please add me to any group .🤭",
             )
-            return await query.answer('❤️Thank You @LazyDeveloper ❤️')
+            return await query.answer('❤️Thank You @wDeveloper ❤️')
         buttons = []
         for groupid in groupids:
             try:
@@ -407,7 +407,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🧞‍♀️ Search 🧐', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/Jollygymkhanaupdates')
+            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/wDeveloperrupdates')
         ], [
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
@@ -438,7 +438,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/Jollygymkhanaupdates'),
+            InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/wDeveloperrupdates'),
             InlineKeyboardButton('♥️ Source ♥️', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 Home 🏠', callback_data='start'),
@@ -612,7 +612,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ]
             reply_markup = InlineKeyboardMarkup(buttons)
             await query.message.edit_reply_markup(reply_markup)
-    await query.answer('❤️Thank You @LazyDeveloper ❤️')
+    await query.answer('❤️Thank You @wDeveloper ❤️')
 
 
 async def auto_filter(client, msg, spoll=False):
